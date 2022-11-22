@@ -8,3 +8,4 @@ Previous SSL methods based on cross-view contrastive learning require a large ba
 
 
 
+N. Alosaimi, H. Alhichri, Y. Bazi, B. B. Youssef,  and N. Alajlan, "Cnn ensemble approach to detect covid-19 from computed tomography chest images,"Computers, Materials & Continua 2023, 67(3), 3581-3599. https://doi.org/10.32604/cmc.2021.015399
